@@ -1,4 +1,4 @@
-namespace CMSTraining.Models.NorthwindEntities
+namespace AlloyAdvanced.Models.NorthwindEntities
 {
     using System;
     using System.Data.Entity;
