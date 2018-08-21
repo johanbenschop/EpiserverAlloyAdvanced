@@ -312,6 +312,9 @@
     <Compile Include="Controllers\SearchPageController.cs" />
     <Compile Include="Controllers\StartPageController.cs" />
     <Compile Include="Controllers\VideoFileController.cs" />
+    <Compile Include="Features\ContentApprovals\ContentApprovalsManagerPage.cs" />
+    <Compile Include="Features\ContentApprovals\ContentApprovalsManagerPageController.cs" />
+    <Compile Include="Features\ContentApprovals\ContentApprovalsManagerViewModel.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -444,6 +447,9 @@
     <Content Include="modules\_protected\EPiServer.DeveloperTools\Web.config" />
     <Content Include="modules\_protected\EPiServer.DeveloperTools\module.config" />
     <Content Include="modules\_protected\EPiServer.DeveloperTools\EPiServer.DeveloperTools.zip" />
+    <Content Include="Features\Web.config" />
+    <Content Include="Features\_viewstart.cshtml" />
+    <Content Include="Features\ContentApprovals\ContentApprovalsManager.cshtml" />
     <None Include="packages.config" />
     <Content Include="Views\SearchPage\Index.cshtml" />
     <Content Include="Views\_viewstart.cshtml" />
