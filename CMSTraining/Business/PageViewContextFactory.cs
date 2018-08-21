@@ -3,15 +3,15 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.Security;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer;
 using EPiServer.Core;
 using EPiServer.Data;
 using EPiServer.Web;
 using EPiServer.Web.Routing;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     public class PageViewContextFactory
     {

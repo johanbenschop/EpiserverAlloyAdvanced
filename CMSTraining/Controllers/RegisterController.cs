@@ -1,4 +1,4 @@
-using CMSTraining.Models;
+using AlloyAdvanced.Models;
 using EPiServer.Core;
 using EPiServer.ServiceLocation;
 using EPiServer.Shell.Security;
@@ -11,7 +11,7 @@ using EPiServer.Security;
 using EPiServer.DataAbstraction;
 using EPiServer.Personalization;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     /// <summary>
     /// Used to register a user for first time

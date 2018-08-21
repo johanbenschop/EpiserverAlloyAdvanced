@@ -1,11 +1,11 @@
-using CMSTraining.Models.Blocks;
-using CMSTraining.Models.Pages;
+using AlloyAdvanced.Models.Blocks;
+using AlloyAdvanced.Models.Pages;
 using EPiServer.Cms.TinyMce.Core;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
 
-namespace CMSTraining.Business.Initialization
+namespace AlloyAdvanced.Business.Initialization
 {
     [ModuleDependency(typeof(TinyMceInitialization))]
     public class ExtendedTinyMceInitialization : IConfigurableModule

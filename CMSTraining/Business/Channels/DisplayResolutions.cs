@@ -1,4 +1,4 @@
-namespace CMSTraining.Business.Channels
+namespace AlloyAdvanced.Business.Channels
 {
     /// <summary>
     /// Defines resolution for desktop displays

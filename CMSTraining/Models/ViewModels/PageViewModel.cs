@@ -1,8 +1,8 @@
 using System;
 using EPiServer.Core;
-using CMSTraining.Models.Pages;
+using AlloyAdvanced.Models.Pages;
 
-namespace CMSTraining.Models.ViewModels
+namespace AlloyAdvanced.Models.ViewModels
 {
     public class PageViewModel<T> : IPageViewModel<T> where T : SitePageData
     {

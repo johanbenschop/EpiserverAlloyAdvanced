@@ -1,7 +1,7 @@
 using EPiServer.Core;
-using CMSTraining.Models.Pages;
+using AlloyAdvanced.Models.Pages;
 
-namespace CMSTraining.Models.ViewModels
+namespace AlloyAdvanced.Models.ViewModels
 {
     /// <summary>
     /// Defines common characteristics for view models for pages, including properties used by layout files.

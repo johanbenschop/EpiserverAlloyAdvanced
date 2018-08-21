@@ -2,7 +2,7 @@ using EPiServer.Framework.Localization;
 using EPiServer.ServiceLocation;
 using EPiServer.Web;
 
-namespace CMSTraining.Business.Channels
+namespace AlloyAdvanced.Business.Channels
 {
     /// <summary>
     /// Base class for all resolution definitions

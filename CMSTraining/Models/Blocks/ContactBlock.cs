@@ -5,7 +5,7 @@ using EPiServer.DataAnnotations;
 using EPiServer.Web;
 using EPiServer;
 
-namespace CMSTraining.Models.Blocks
+namespace AlloyAdvanced.Models.Blocks
 {
     /// <summary>
     /// Used to present contact information with a call-to-action link

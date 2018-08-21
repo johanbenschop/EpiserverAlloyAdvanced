@@ -6,7 +6,7 @@ using EPiServer.Framework.Web;
 using EPiServer.ServiceLocation;
 using EPiServer;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     /// <summary>
     /// Extension methods for content

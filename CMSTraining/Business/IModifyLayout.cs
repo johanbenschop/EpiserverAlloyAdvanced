@@ -1,6 +1,6 @@
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.ViewModels;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     /// <summary>
     /// Defines a method which may be invoked by PageContextActionFilter allowing controllers

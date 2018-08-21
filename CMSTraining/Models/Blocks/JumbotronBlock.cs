@@ -5,7 +5,7 @@ using EPiServer.Web;
 using EPiServer.Core;
 using EPiServer;
 
-namespace CMSTraining.Models.Blocks
+namespace AlloyAdvanced.Models.Blocks
 {
     /// <summary>
     /// Used for a primary message on a page, commonly used on start pages and landing pages

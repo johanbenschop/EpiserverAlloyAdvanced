@@ -1,10 +1,10 @@
 using System.ComponentModel.DataAnnotations;
-using CMSTraining.Models.Blocks;
+using AlloyAdvanced.Models.Blocks;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
 
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Used to provide on-site search

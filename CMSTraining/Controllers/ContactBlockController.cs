@@ -1,15 +1,15 @@
 using System.Web;
 using System.Web.Mvc;
 using EPiServer.Core;
-using CMSTraining.Helpers;
-using CMSTraining.Models.Blocks;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Helpers;
+using AlloyAdvanced.Models.Blocks;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 using EPiServer;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     public class ContactBlockController : BlockController<ContactBlock>
     {

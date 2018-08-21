@@ -2,7 +2,7 @@ using System;
 using EPiServer.DataAbstraction;
 using EPiServer.ServiceLocation;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     /// <summary>
     /// Provides extension methods for types intended to be used when working with page types

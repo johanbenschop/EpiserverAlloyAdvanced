@@ -1,5 +1,5 @@
 
-namespace CMSTraining.Models.ViewModels
+namespace AlloyAdvanced.Models.ViewModels
 {
     /// <summary>
     /// View model for the video file

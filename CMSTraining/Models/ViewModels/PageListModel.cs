@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using EPiServer.Core;
-using CMSTraining.Models.Blocks;
+using AlloyAdvanced.Models.Blocks;
 
-namespace CMSTraining.Models.ViewModels
+namespace AlloyAdvanced.Models.ViewModels
 {
     public class PageListModel
     {

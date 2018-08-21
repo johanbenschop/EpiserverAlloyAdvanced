@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 
-namespace CMSTraining.Models
+namespace AlloyAdvanced.Models
 {
     public class RegisterViewModel
     {

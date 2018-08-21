@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web.Mvc;
 using EPiServer.ServiceLocation;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     public class ServiceLocatorDependencyResolver : IDependencyResolver
     {

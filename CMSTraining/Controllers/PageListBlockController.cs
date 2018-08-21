@@ -3,13 +3,13 @@ using System.Linq;
 using System.Web.Mvc;
 using EPiServer.Core;
 using EPiServer.Filters;
-using CMSTraining.Business;
-using CMSTraining.Models.Blocks;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Business;
+using AlloyAdvanced.Models.Blocks;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     public class PageListBlockController : BlockController<PageListBlock>
     {

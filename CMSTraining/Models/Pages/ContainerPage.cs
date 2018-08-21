@@ -1,6 +1,6 @@
-using CMSTraining.Business.Rendering;
+using AlloyAdvanced.Business.Rendering;
 
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Used to logically group pages in the page tree

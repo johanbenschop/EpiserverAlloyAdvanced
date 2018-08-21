@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="CMSTraining.EPiServerApplication" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Language="C#" Inherits="AlloyAdvanced.EPiServerApplication" %>

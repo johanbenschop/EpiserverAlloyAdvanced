@@ -1,4 +1,4 @@
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Used primarily for publishing news articles on the website

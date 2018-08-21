@@ -7,9 +7,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-[assembly: OwinStartup(typeof(CMSTraining.Startup))]
+[assembly: OwinStartup(typeof(AlloyAdvanced.Startup))]
 
-namespace CMSTraining
+namespace AlloyAdvanced
 {
     public class Startup
     {

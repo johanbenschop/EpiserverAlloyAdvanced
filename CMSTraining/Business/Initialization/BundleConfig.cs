@@ -2,7 +2,7 @@ using System.Web.Optimization;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 
-namespace CMSTraining.Business.Initialization
+namespace AlloyAdvanced.Business.Initialization
 {
     [InitializableModule]
     public class BundleConfig : IInitializableModule

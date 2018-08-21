@@ -3,7 +3,7 @@ using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
 using System.ComponentModel.DataAnnotations;
 
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Used for the pages mainly consisting of manually created content such as text, images, and blocks

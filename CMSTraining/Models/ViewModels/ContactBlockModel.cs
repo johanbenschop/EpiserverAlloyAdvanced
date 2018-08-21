@@ -1,10 +1,10 @@
 using System.Web;
 using System.ComponentModel.DataAnnotations;
-using CMSTraining.Models.Pages;
+using AlloyAdvanced.Models.Pages;
 using EPiServer.Web;
 using EPiServer.Core;
 
-namespace CMSTraining.Models.ViewModels
+namespace AlloyAdvanced.Models.ViewModels
 {
     public class ContactBlockModel
     {

@@ -2,11 +2,11 @@ using System.ComponentModel.DataAnnotations;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
-using CMSTraining.Business.Rendering;
-using CMSTraining.Models.Properties;
+using AlloyAdvanced.Business.Rendering;
+using AlloyAdvanced.Models.Properties;
 using EPiServer.Web;
 
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Base class for all page types

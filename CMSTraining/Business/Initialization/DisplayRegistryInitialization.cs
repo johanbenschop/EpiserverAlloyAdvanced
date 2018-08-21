@@ -5,7 +5,7 @@ using EPiServer.Web;
 using System.Collections.Generic;
 using System.Web.Mvc;
 
-namespace CMSTraining.Business.Initialization
+namespace AlloyAdvanced.Business.Initialization
 {
     [InitializableModule]
     [ModuleDependency(typeof(EPiServer.Web.InitializationModule))]

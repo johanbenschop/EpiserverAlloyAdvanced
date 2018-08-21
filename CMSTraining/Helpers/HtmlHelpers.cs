@@ -8,12 +8,12 @@ using System.Web.Mvc;
 using System.Web.WebPages;
 using EPiServer.Core;
 using EPiServer.ServiceLocation;
-using CMSTraining.Business;
+using AlloyAdvanced.Business;
 using EPiServer.Web.Mvc.Html;
 using EPiServer.Web.Routing;
 using EPiServer;
 
-namespace CMSTraining.Helpers
+namespace AlloyAdvanced.Helpers
 {
     public static class HtmlHelpers
     {

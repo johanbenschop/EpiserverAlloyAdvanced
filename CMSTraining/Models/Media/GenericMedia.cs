@@ -2,7 +2,7 @@ using EPiServer.Core;
 using EPiServer.DataAnnotations;
 using System;
 
-namespace CMSTraining.Models.Media
+namespace AlloyAdvanced.Models.Media
 {
     [ContentType(GUID = "EE3BD195-7CB0-4756-AB5F-E5E223CD9820")]
     public class GenericMedia : MediaData

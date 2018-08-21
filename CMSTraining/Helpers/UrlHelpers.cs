@@ -7,7 +7,7 @@ using EPiServer.ServiceLocation;
 using EPiServer.Web.Routing;
 using EPiServer;
 
-namespace CMSTraining.Helpers
+namespace AlloyAdvanced.Helpers
 {
     public static class UrlHelpers
     {

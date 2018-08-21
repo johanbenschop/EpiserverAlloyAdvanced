@@ -1,6 +1,6 @@
 using EPiServer.DataAnnotations;
 
-namespace CMSTraining.Models
+namespace AlloyAdvanced.Models
 {
     /// <summary>
     /// Attribute to set the default thumbnail for site page and block types

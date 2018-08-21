@@ -1,9 +1,9 @@
 using System.Web;
 using System.Web.Mvc;
 using EPiServer.SpecializedProperties;
-using CMSTraining.Models.Blocks;
+using AlloyAdvanced.Models.Blocks;
 
-namespace CMSTraining.Models.ViewModels
+namespace AlloyAdvanced.Models.ViewModels
 {
     public class LayoutModel
     {

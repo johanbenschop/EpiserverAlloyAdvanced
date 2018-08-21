@@ -1,7 +1,7 @@
 using System.Linq;
 using System.Web.Mvc;
 
-namespace CMSTraining.Business.Rendering
+namespace AlloyAdvanced.Business.Rendering
 {
     /// <summary>
     /// Extends the Razor view engine to include the folders ~/Views/Shared/Blocks/ and ~/Views/Shared/PagePartials/

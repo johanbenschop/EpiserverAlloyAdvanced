@@ -3,9 +3,9 @@ using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
 using EPiServer.SpecializedProperties;
-using CMSTraining.Models.Blocks;
+using AlloyAdvanced.Models.Blocks;
 
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Used for the site's start page and also acts as a container for site settings

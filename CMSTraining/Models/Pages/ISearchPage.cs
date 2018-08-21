@@ -1,4 +1,4 @@
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Marker interface for search implementation

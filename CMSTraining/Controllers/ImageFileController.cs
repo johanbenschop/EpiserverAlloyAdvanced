@@ -1,10 +1,10 @@
 using System.Web.Mvc;
-using CMSTraining.Models.Media;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.Media;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer.Web.Routing;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     /// <summary>
     /// Controller for the image file.

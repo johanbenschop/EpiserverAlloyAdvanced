@@ -1,11 +1,11 @@
 using System.Web.Mvc;
-using CMSTraining.Business;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Business;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer.Shell.Security;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     /// <summary>
     /// All controllers that renders pages should inherit from this class so that we can

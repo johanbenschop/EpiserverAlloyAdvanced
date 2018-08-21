@@ -3,10 +3,10 @@ using EPiServer.DataAbstraction;
 using EPiServer.Filters;
 using EPiServer.Framework.Localization;
 using EPiServer.ServiceLocation;
-using CMSTraining.Business;
-using CMSTraining.Models.Blocks;
+using AlloyAdvanced.Business;
+using AlloyAdvanced.Models.Blocks;
 
-namespace CMSTraining.Models.Pages
+namespace AlloyAdvanced.Models.Pages
 {
     /// <summary>
     /// Presents a news section including a list of the most recent articles on the site

@@ -2,7 +2,7 @@ using System.Web;
 using System.Web.WebPages;
 using EPiServer.Web;
 
-namespace CMSTraining.Business.Channels
+namespace AlloyAdvanced.Business.Channels
 {
     //<summary>
     //Defines the 'Mobile' content channel

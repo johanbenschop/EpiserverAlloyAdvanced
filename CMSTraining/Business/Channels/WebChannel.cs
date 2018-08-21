@@ -1,7 +1,7 @@
 using System.Web;
 using EPiServer.Web;
 
-namespace CMSTraining.Business.Channels
+namespace AlloyAdvanced.Business.Channels
 {
     /// <summary>
     /// Defines the 'Web' content channel

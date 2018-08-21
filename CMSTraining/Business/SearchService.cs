@@ -8,7 +8,7 @@ using EPiServer.Security;
 using EPiServer;
 using EPiServer.ServiceLocation;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     public class SearchService
     {

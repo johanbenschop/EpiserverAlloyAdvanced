@@ -1,4 +1,4 @@
-namespace CMSTraining.Business.Rendering
+namespace AlloyAdvanced.Business.Rendering
 {
     /// <summary>
     /// Defines a property for CSS class(es) which will be added to the class

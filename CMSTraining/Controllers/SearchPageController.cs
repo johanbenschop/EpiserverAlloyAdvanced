@@ -5,15 +5,15 @@ using System.Web.Mvc;
 using EPiServer.Core;
 using EPiServer.Framework.Web;
 using EPiServer.Search;
-using CMSTraining.Business;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Business;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Hosting;
 using EPiServer.Web.Mvc.Html;
 using EPiServer.Web.Routing;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     public class SearchPageController : PageControllerBase<SearchPage>
     {

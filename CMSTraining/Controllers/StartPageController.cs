@@ -1,10 +1,10 @@
 using System.Web.Mvc;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     public class StartPageController : PageControllerBase<StartPage>
     {

@@ -1,5 +1,5 @@
 
-namespace CMSTraining.Models.Blocks
+namespace AlloyAdvanced.Models.Blocks
 {
     /// <summary>
     /// Base class for all block types on the site

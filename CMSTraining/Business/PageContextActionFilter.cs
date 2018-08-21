@@ -1,9 +1,9 @@
 using System.Web.Mvc;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web.Routing;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     /// <summary>
     /// Intercepts actions with view models of type IPageViewModel and populates the view models

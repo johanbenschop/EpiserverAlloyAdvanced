@@ -2,10 +2,10 @@ using System;
 using System.Web.Mvc;
 using EPiServer;
 using EPiServer.Framework.DataAnnotations;
-using CMSTraining.Models.Pages;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.Pages;
+using AlloyAdvanced.Models.ViewModels;
 
-namespace CMSTraining.Controllers
+namespace AlloyAdvanced.Controllers
 {
     /// <summary>
     /// Concrete controller that handles all page types that don't have their own specific controllers.

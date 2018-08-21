@@ -1,8 +1,8 @@
 using EPiServer.Editor;
 using EPiServer.Shell;
-using CMSTraining.Models.Pages;
+using AlloyAdvanced.Models.Pages;
 
-namespace CMSTraining.Business.UIDescriptors
+namespace AlloyAdvanced.Business.UIDescriptors
 {
     /// <summary>
     /// Describes how the UI should appear for <see cref="ContainerPage"/> content.

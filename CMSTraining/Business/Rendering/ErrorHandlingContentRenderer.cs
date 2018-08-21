@@ -6,10 +6,10 @@ using System.Web.Mvc.Html;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.Security;
-using CMSTraining.Models.ViewModels;
+using AlloyAdvanced.Models.ViewModels;
 using EPiServer.Web.Mvc;
 
-namespace CMSTraining.Business.Rendering
+namespace AlloyAdvanced.Business.Rendering
 {
     /// <summary>
     /// Wraps an MvcContentRenderer and adds error handling to ensure that blocks and other content

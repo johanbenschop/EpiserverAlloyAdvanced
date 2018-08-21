@@ -2,7 +2,7 @@ using EPiServer.DataAnnotations;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace CMSTraining
+namespace AlloyAdvanced
 {
 
     public class Global

@@ -2,10 +2,10 @@ using System.Web.Mvc;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
-using CMSTraining.Business.Rendering;
+using AlloyAdvanced.Business.Rendering;
 using EPiServer.Web;
 
-namespace CMSTraining.Business.Initialization
+namespace AlloyAdvanced.Business.Initialization
 {
     /// <summary>
     /// Module for customizing templates and rendering.

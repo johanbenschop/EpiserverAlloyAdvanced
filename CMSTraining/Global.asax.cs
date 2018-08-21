@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.Mvc;
 
-namespace CMSTraining
+namespace AlloyAdvanced
 {
     public class EPiServerApplication : EPiServer.Global
     {

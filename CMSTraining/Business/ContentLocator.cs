@@ -2,14 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using CMSTraining.Models.Pages;
+using AlloyAdvanced.Models.Pages;
 using EPiServer;
 using EPiServer.Core;
 using EPiServer.Filters;
 using EPiServer.Shell.Configuration;
 using EPiServer.Web;
 
-namespace CMSTraining.Business
+namespace AlloyAdvanced.Business
 {
     public class ContentLocator
     {

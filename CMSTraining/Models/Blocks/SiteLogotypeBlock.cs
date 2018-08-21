@@ -5,7 +5,7 @@ using EPiServer.Shell.ObjectEditing;
 using EPiServer.Web;
 using EPiServer;
 
-namespace CMSTraining.Models.Blocks
+namespace AlloyAdvanced.Models.Blocks
 {
     /// <summary>
     /// Used to provide a composite property on the start page to set site logotype settings

@@ -1,4 +1,4 @@
-namespace CMSTraining.Business.Rendering
+namespace AlloyAdvanced.Business.Rendering
 {
     /// <summary>
     /// Marker interface for content types which should not be handled by DefaultPageController.
