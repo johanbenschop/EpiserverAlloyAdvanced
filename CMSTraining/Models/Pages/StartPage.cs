@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using AlloyAdvanced.Features.ContentApprovals;
+using AlloyAdvanced.Models.Blocks;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
 using EPiServer.SpecializedProperties;
-using AlloyAdvanced.Models.Blocks;
-using AlloyAdvanced.Features.ContentApprovals;
 
 namespace AlloyAdvanced.Models.Pages
 {
@@ -50,6 +50,13 @@ namespace AlloyAdvanced.Models.Pages
 
         [Display(GroupName = Global.GroupNames.SiteSettings)]
         public virtual SiteLogotypeBlock SiteLogotype { get; set; }
+
+        [UIHint(Global.SiteUIHints.Embiggen)]
+        [Display(Name = "Bigger text box")]
+        public virtual string BiggerTextBox { get; set; }
+
+        [Display(Name = "Normal text box")]
+        public virtual string NormalTextBox { get; set; }
 
     }
 }

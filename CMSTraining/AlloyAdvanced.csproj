@@ -281,6 +281,7 @@
     <Compile Include="Business\ContentLocator.cs" />
     <Compile Include="Business\EditorDescriptors\ContactPageSelectionFactory.cs" />
     <Compile Include="Business\EditorDescriptors\ContactPageSelector.cs" />
+    <Compile Include="Business\EditorDescriptors\EmbiggenEditorDescriptor.cs" />
     <Compile Include="Business\EditorDescriptors\StringListEditorDescriptor.cs" />
     <Compile Include="Business\IModifyLayout.cs" />
     <Compile Include="Business\Initialization\BundleConfig.cs" />
@@ -445,6 +446,7 @@
     <Content Include="App_Data\DefaultSiteContent.episerverdata" />
     <Content Include="App_Data\GeoLiteCity.dat" />
     <Content Include=".editorconfig" />
+    <Compile Include="Business\Initialization\ConfigureTinyMCEToolbarInitializationModule.cs" />
     <None Include="EPiServerLog.config" />
     <Content Include="modules\_protected\EPiServer.Search.Cms\module.config" />
     <Content Include="module.config" />

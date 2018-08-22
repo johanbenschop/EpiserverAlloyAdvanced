@@ -1,4 +1,4 @@
-using EPiServer.DataAnnotations;
+﻿using EPiServer.DataAnnotations;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
@@ -77,6 +77,7 @@ namespace AlloyAdvanced
             public const string Contact = "contact";
             public const string Strings = "StringList";
             public const string StringsCollection = "StringsCollection";
+            public const string Embiggen = "Embiggen";
         }
 
         /// <summary>
