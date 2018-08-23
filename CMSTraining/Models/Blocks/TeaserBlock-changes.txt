@@ -1,0 +1,2 @@
+// decorate the TeaserBlock class with:
+[EPiServer.Find.Cms.IndexInContentAreas]
