@@ -312,6 +312,8 @@
     <Compile Include="Business\SearchService.cs" />
     <Compile Include="Business\ServiceLocatorDependencyResolver.cs" />
     <Compile Include="Business\UIDescriptors\ContainerPageUIDescriptor.cs" />
+    <Compile Include="Business\ViewTransformers\DebugViewTransformers.cs" />
+    <Compile Include="Business\ViewTransformers\RemoveComponentsViewTransformer.cs" />
     <Compile Include="Controllers\AppSettingsController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\ContactBlockController.cs" />
